@@ -3,7 +3,6 @@
 <h3>Collection de diverses fonctions et macros WeiDU pour faciliter le code<h3>
 </div><br>
 
-
 <hr>
 
 
@@ -13,9 +12,9 @@
 
 <img align="left" src="images/fr-flag-32.png"> Cette fonction permet de modifier les fichiers BAM d'icônes d'inventaire afin que les jeux améliorés (EE) affichent à la fois leurs grandes et leurs petites icônes. Ces fichiers comportent deux séquences, la première représentant la grande icône et la seconde la petite. Résultat: Les fichiers BAM du répertoire /bam répondant à ces caractéristiques sont modifiés et sauvegardés dans le répertoire override.
 
-<img align="left" src="images/uk-flag-32?png"> This function attempts to modify traditional inventory BAMs so that both the large and small icons are utilized by the EE games. The inventory BAM files must have two sequences, the first containing the "large" inventory icon frame and the second containing the "small" inventory icon frame to be processed. Result: Inventory icon BAMs in the /bam folder that meet these requirements are patched and saved back to the override folder.
+<img align="left" src="images/uk-flag-32.png"> This function attempts to modify traditional inventory BAMs so that both the large and small icons are utilized by the EE games. The inventory BAM files must have two sequences, the first containing the "large" inventory icon frame and the second containing the "small" inventory icon frame to be processed. Result: Inventory icon BAMs in the /bam folder that meet these requirements are patched and saved back to the override folder.
 
-&#9755; <a ref="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L8>"Usage</a>.
+&#9755; <a href="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L8">Usage</a>.
 
 
 <hr>
@@ -44,7 +43,7 @@
 
 :warning: Pour que cette procédure fonctionne correctement, il faut impérativement que les cartouches des objets contiennent les chaînes de caractères (exclusion ou restriction) définies par les strref @9001 et @9002. Vous en trouverez des exemples dans le répertoire :file_folder: lang.
 
-&#9755; <a ref="https://github.com/SpellholdStudios/Darron/blob/master/darron/darron.tp2#L216">Usage</a>.
+&#9755; <a href="https://github.com/SpellholdStudios/Darron/blob/master/darron/darron.tp2#L216">Usage</a>.
 
 
 ## 
@@ -77,9 +76,9 @@
 
 <img align="left" src="images/fr-flag-32.png"> Cette fonction ajoute une nouvelle entrée dans le fichier tooltip.2da.
 
-<img align="left" src="images/uk-flag-32?png"> This function adds a new entry in tooltip.2da. file.
+<img align="left" src="images/uk-flag-32.png"> This function adds a new entry in tooltip.2da. file.
 
-&#9755; <a ref="https://github.com/SpellholdStudios/Bolsa/blob/master/bolsa/bolsa.tp2#L151">Usage</a>.
+&#9755; <a href="https://github.com/SpellholdStudios/Bolsa/blob/master/bolsa/bolsa.tp2#L151">Usage</a>.
 
 ## 
 
@@ -89,7 +88,7 @@
 
 <img align="left" src="images/uk-flag-32.png"> This function adds, removes or alters items headers EE and ToBEx specific flags.
 
-&#9755; <a ref="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L67">Usage</a>.
+&#9755; <a href="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L67">Usage</a>.
 
 ## 
 
@@ -99,7 +98,7 @@
 
 <img align="left" src="images/uk-flag-32.png"> This function defines special item usability restrictions (EE games).
 
-&#9755; <a ref="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L127">Usage</a>.
+&#9755; <a href="https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/blob/master/ruad/lib/ruad_soa.tpa#L127">Usage</a>.
 
 ## 
 
