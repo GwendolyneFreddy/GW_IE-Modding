@@ -43,6 +43,9 @@
 
 :warning: Pour que cette procédure fonctionne correctement, il faut impérativement que les cartouches des objets contiennent les chaînes de caractères (exclusion ou restriction) définies par les strref @9001 et @9002. Vous en trouverez des exemples dans le répertoire :file_folder: lang.
 
+:warning: Items descriptions must contain the strings (exclusion or restriction) defined by strref @9001 and @9002 to make this function work properly. Examples can be found in the :file_folder: lang folder.
+
+
 &#9755; <a href="https://github.com/SpellholdStudios/Darron/blob/master/darron/darron.tp2#L216">Usage</a>.
 
 
